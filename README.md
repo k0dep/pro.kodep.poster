@@ -1,6 +1,6 @@
 # Poster
 
-    Simple event bus for unity
+  Simple event bus for unity
 
 ## Send message sample
 
